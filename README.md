@@ -56,7 +56,7 @@ conditions
 appropriate
 loans
 having
-property
+property 
 facilities
 corporation
 advertise
